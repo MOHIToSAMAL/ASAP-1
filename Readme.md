@@ -4,7 +4,7 @@ List of the Funnist Auto-Generator caption on youtube
 
 ## Project overview :
 
-This project is a fun and Interactive web application by users can Log in and see a list of the most hilarious auto-generator captions from youtube videos. Since youtube's AI sometimes misprints speeches, it creates captions that are often incorrect and funny. Different users will be able to submit their own filings and more captions shared by others.
+This project is a fun and Interactive web application by users can Log in and see a list of the most hilarious auto-generated captions from youtube videos. Since youtube's AI sometimes misprints speeches, it creates captions that are often incorrect and funny. Different users will be able to submit their own filings and more captions shared by others.
 
 ### Key Features :
 
