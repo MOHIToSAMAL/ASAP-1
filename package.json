@@ -1,0 +1,19 @@
+{
+  "name": "asap-1",
+  "version": "1.0.0",
+  "description": "List of the Funnist Auto-Generated caption on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOHIToSAMAL/ASAP-1.git"
+  },
+  "author": "MONARCH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MOHIToSAMAL/ASAP-1/issues"
+  },
+  "homepage": "https://github.com/MOHIToSAMAL/ASAP-1#readme"
+}
