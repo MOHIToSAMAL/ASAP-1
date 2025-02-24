@@ -35,5 +35,5 @@ API Testinng : Postman/Bruno.
 Deployment : Vercel(Frontend), Render/Railway(Backend).
 
 keys -- master -- Myfile
-     -- login filename -- Myfile;
+     -- login filename -- Myfile2;
      -- setting_2 filename -- myfile;
