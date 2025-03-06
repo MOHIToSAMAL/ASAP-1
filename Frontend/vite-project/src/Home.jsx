@@ -8,6 +8,7 @@ const Home = () => {
             <p>There  is no Animation for any feature yet</p>
             <p>The Backend is not Created yet</p>
             <p>See you! soon Sayonara</p>
+            <p>Nice</p>
 
         </div>
     );
